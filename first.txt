@@ -2,3 +2,4 @@ Today's date was 12-11-2022
 year 2022
 month november
 date 11th
+time is 12:24
